@@ -1,10 +1,6 @@
-# Thank You for Registering
+# Thank you for registering
 
-Before your petition may be reviewed you need to verify that
-you control the email address submitted with your petition.
+Before we can progress your application we need to verify your email address.
 
-You will receive an email at that address with a link. Please
-click on the link to verify your address.
-
-This is a placeholder to demonstrate the Submission Redirect URL
-functionality for COmanage Registry enrollment flow configuration.
+An email has been sent to the address submitted with your application. Click the
+confirmation link in that email message to verify your address.

@@ -1,11 +1,5 @@
-# Thank You for Verifying Your Email
+# Thank you for verifying your email address
 
-Now that your email has been verified your petition may
-be reviewed.
+Now that your email address has been verified we can review your application.
 
-You will receive an email after your petition has been
-approved.
-
-This is a placeholder to demonstrate the Confirmation
-Redirect URL functionality for COmanage Registry enrollment
-flow configuration.
+You will receive another email notification once your application has been approved.
